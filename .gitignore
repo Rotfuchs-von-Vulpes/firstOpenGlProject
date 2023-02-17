@@ -3,3 +3,7 @@
 /build.bat
 /main.exe
 /minificator
+/src/sokol_app.h
+/src/sokol_gfx.h
+/src/sokol_glue.h
+/src/stb_truetype.h
