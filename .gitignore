@@ -1,4 +1,5 @@
 /.vscode
+/CMakeLists.txt
 /build
 /build.bat
 /main.exe
